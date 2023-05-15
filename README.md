@@ -1,6 +1,6 @@
 # Frontend Mentor - solução de componente de código QR
 
-![Design preview for the QR code component coding challenge](https://shufito.github.io/desafio_01_qr_code_frontend_mentor/)
+![Design preview for the QR code component coding challenge](https://shufito.github.io/desafio_01_qr_code_frontend_mentor)
 
 ## Bem Vindo! 👋
 
@@ -21,7 +21,7 @@ Estou constantemente procurando expandir minhas habilidades e, no momento, estou
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Construído com](#construido-com)
+  - [Construído com](#construído-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Autor](#autor)
